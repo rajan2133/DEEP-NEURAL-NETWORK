@@ -22,24 +22,37 @@ Experiment with LENET Model on Fashion MNIST and Handwritten Digit recognition M
 
 Understand the fundamentals of perceptrons through simple AND and OR gate case studies.
 
-Image Dataset Pre-processing with Flowers
+## 5. Pre-processing of Image dataset using flower dataset.
 
 Learn essential image dataset pre-processing techniques using a flower dataset.
-Image Segmentation for Pets
+
+## 6. Image Segmentation
 
 Explore image segmentation using the Oxford-IIIT Pets dataset, focusing on different breeds of dogs and cats.
-Time Series Prediction with LSTM
+
+## 7. Time Series Prediction with LSTM
 
 Predict Google stock prices using Long Short-Term Memory (LSTM) networks for time series analysis.
-Data Augmentation Techniques
+
+## 8. Data Augmentation Techniques
 
 Experiment with various data augmentation techniques to enhance model generalization.
-Indian Currency Notes Classification
+
+## 9. Indian Currency Notes Classification
 
 Undertake a unique experiment to classify Indian currency notes using deep learning.
-Image Generation with GANs
+
+## 10. Image Generation with Generative Adversarial Networks(GAN)
 
 Delve into the realm of Generative Adversarial Networks (GANs) to generate synthetic images.
-Simple Audio Recognition
+
+## 11. Simple Audio Recognition
 
 Understand the basics of audio recognition by building a model to recognize keywords.
+
+# How to Use This Repository
+Each experiment is organized into its own directory with dedicated documentation and code.
+
+Follow the each directory for step-by-step instructions and explanations. Feel free to experiment, modify, and expand upon the provided code to enhance your learning experience.
+
+Note: Make sure to install the required dependencies listed in each experiment's before running the code.
